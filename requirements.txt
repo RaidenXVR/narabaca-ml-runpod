@@ -1,0 +1,10 @@
+runpod
+transformers
+tensorflow-cpu
+numpy<2.0.0
+soundfile
+pydub
+python-multipart
+torch==2.2.2+cpu 
+torchaudio==2.2.2+cpu 
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
